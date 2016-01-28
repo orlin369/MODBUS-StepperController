@@ -1,0 +1,5 @@
+c:\users\sashk_000\documents\visual studio 2012\Projects\Stepper_Controll\Stepper_Controll\bin\Debug\Stepper_Controll.exe.config
+c:\users\sashk_000\documents\visual studio 2012\Projects\Stepper_Controll\Stepper_Controll\obj\Debug\Stepper_Controll.csprojResolveAssemblyReference.cache
+c:\users\sashk_000\documents\visual studio 2012\Projects\Stepper_Controll\Stepper_Controll\obj\Debug\Stepper_Controll.Form1.resources
+c:\users\sashk_000\documents\visual studio 2012\Projects\Stepper_Controll\Stepper_Controll\obj\Debug\Stepper_Controll.Properties.Resources.resources
+c:\users\sashk_000\documents\visual studio 2012\Projects\Stepper_Controll\Stepper_Controll\obj\Debug\Stepper_Controll.csproj.GenerateResource.Cache

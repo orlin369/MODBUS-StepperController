@@ -1,0 +1,29 @@
+C:\Users\DiO\Desktop\Stepper_Controll-master\Stepper_Controll\obj\Debug\StepperControl.csproj.GenerateResource.Cache
+C:\Users\DiO\Desktop\Stepper_Controll-master\Stepper_Controll\obj\Debug\StepperControl.MainForm.resources
+C:\Users\DiO\Desktop\Stepper_Controll-master\Stepper_Controll\bin\Debug\StepperControl.exe
+C:\Users\DiO\Desktop\Stepper_Controll-master\Stepper_Controll\bin\Debug\StepperControl.pdb
+C:\Users\DiO\Desktop\Stepper_Controll-master\Stepper_Controll\obj\Debug\StepperControl.exe
+C:\Users\DiO\Desktop\Stepper_Controll-master\Stepper_Controll\obj\Debug\StepperControl.pdb
+C:\Users\DiO\Desktop\Stepper_Controll-master\Stepper_Controll\obj\Debug\StepperControl.csprojResolveAssemblyReference.cache
+C:\Users\DiO\Desktop\Stepper_Controll-master\Stepper_Controll\bin\Debug\Modbus.dll
+C:\Users\DiO\Desktop\Stepper_Controll-master\Stepper_Controll\bin\Debug\log4net.dll
+C:\Users\DiO\Desktop\Stepper_Controll-master\Stepper_Controll\bin\Debug\Unme.Common.dll
+C:\Users\DiO\Desktop\Stepper_Controll-master\StepperControl\obj\Debug\StepperControl.exe
+C:\Users\DiO\Desktop\Stepper_Controll-master\StepperControl\obj\Debug\StepperControl.pdb
+C:\Users\DiO\Desktop\Stepper_Controll-master\StepperControl\bin\Debug\StepperControl.exe
+C:\Users\DiO\Desktop\Stepper_Controll-master\StepperControl\bin\Debug\StepperControl.pdb
+C:\Users\DiO\Desktop\Stepper_Controll-master\StepperControl\bin\Debug\Modbus.dll
+C:\Users\DiO\Desktop\Stepper_Controll-master\StepperControl\bin\Debug\log4net.dll
+C:\Users\DiO\Desktop\Stepper_Controll-master\StepperControl\bin\Debug\Unme.Common.dll
+C:\Users\DiO\Desktop\Stepper_Controll-master\StepperControl\obj\Debug\StepperControl.csprojResolveAssemblyReference.cache
+C:\Users\DiO\Desktop\Stepper_Controll-master\StepperControl\obj\Debug\StepperControl.MainForm.resources
+C:\Users\DiO\Desktop\Stepper_Controll-master\StepperControl\obj\Debug\StepperControl.csproj.GenerateResource.Cache
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\StepperControllMotionSaver\StepperControl\obj\Debug\StepperControl.exe
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\StepperControllMotionSaver\StepperControl\obj\Debug\StepperControl.pdb
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\StepperControllMotionSaver\StepperControl\bin\Debug\StepperControl.exe
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\StepperControllMotionSaver\StepperControl\bin\Debug\StepperControl.pdb
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\StepperControllMotionSaver\StepperControl\bin\Debug\log4net.dll
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\StepperControllMotionSaver\StepperControl\bin\Debug\Unme.Common.dll
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\StepperControllMotionSaver\StepperControl\obj\Debug\StepperControl.csprojResolveAssemblyReference.cache
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\StepperControllMotionSaver\StepperControl\obj\Debug\StepperControl.MainForm.resources
+C:\Users\DiO\Documents\Visual Studio 2013\Projects\!My\StepperControllMotionSaver\StepperControl\obj\Debug\StepperControl.csproj.GenerateResource.Cache

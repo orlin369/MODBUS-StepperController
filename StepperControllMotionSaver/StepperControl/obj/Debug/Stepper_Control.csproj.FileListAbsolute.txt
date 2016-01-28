@@ -1,0 +1,26 @@
+C:\Users\sashk_000\Documents\Visual Studio 2012\Projects\Stepper_Controll\Stepper_Controll\bin\Debug\Stepper_Controll.exe.config
+C:\Users\sashk_000\Documents\Visual Studio 2012\Projects\Stepper_Controll\Stepper_Controll\bin\Debug\Stepper_Controll.exe
+C:\Users\sashk_000\Documents\Visual Studio 2012\Projects\Stepper_Controll\Stepper_Controll\bin\Debug\Stepper_Controll.pdb
+C:\Users\sashk_000\Documents\Visual Studio 2012\Projects\Stepper_Controll\Stepper_Controll\obj\Debug\Stepper_Control.csprojResolveAssemblyReference.cache
+C:\Users\sashk_000\Documents\Visual Studio 2012\Projects\Stepper_Controll\Stepper_Controll\obj\Debug\Stepper_Controll.StepperControl.resources
+C:\Users\sashk_000\Documents\Visual Studio 2012\Projects\Stepper_Controll\Stepper_Controll\obj\Debug\Stepper_Controll.Properties.Resources.resources
+C:\Users\sashk_000\Documents\Visual Studio 2012\Projects\Stepper_Controll\Stepper_Controll\obj\Debug\Stepper_Control.csproj.GenerateResource.Cache
+C:\Users\sashk_000\Documents\Visual Studio 2012\Projects\Stepper_Controll\Stepper_Controll\obj\Debug\Stepper_Controll.exe
+C:\Users\sashk_000\Documents\Visual Studio 2012\Projects\Stepper_Controll\Stepper_Controll\obj\Debug\Stepper_Controll.pdb
+C:\Users\sashk_000\OneDrive\Documents\Stepper_Controll\Stepper_Controll\bin\Debug\Stepper_Controll.exe.config
+C:\Users\sashk_000\OneDrive\Documents\Stepper_Controll\Stepper_Controll\obj\Debug\Stepper_Controll.exe
+C:\Users\sashk_000\OneDrive\Documents\Stepper_Controll\Stepper_Controll\obj\Debug\Stepper_Controll.pdb
+C:\Users\sashk_000\OneDrive\Documents\Stepper_Controll\Stepper_Controll\bin\Debug\Stepper_Controll.exe
+C:\Users\sashk_000\OneDrive\Documents\Stepper_Controll\Stepper_Controll\bin\Debug\Stepper_Controll.pdb
+C:\Users\sashk_000\OneDrive\Documents\Stepper_Controll\Stepper_Controll\obj\Debug\Stepper_Control.csprojResolveAssemblyReference.cache
+C:\Users\sashk_000\OneDrive\Documents\Stepper_Controll\Stepper_Controll\obj\Debug\Stepper_Controll.StepperControl.resources
+C:\Users\sashk_000\OneDrive\Documents\Stepper_Controll\Stepper_Controll\obj\Debug\Stepper_Controll.Properties.Resources.resources
+C:\Users\sashk_000\OneDrive\Documents\Stepper_Controll\Stepper_Controll\obj\Debug\Stepper_Control.csproj.GenerateResource.Cache
+C:\Users\sashk_000\OneDrive\Documents\Stepper_Controll\Stepper_Controll\obj\Debug\Stepper_Controll.Load.resources
+C:\Users\DiO\Desktop\Stepper_Controll-master\Stepper_Controll\obj\Debug\Stepper_Controll.exe
+C:\Users\DiO\Desktop\Stepper_Controll-master\Stepper_Controll\obj\Debug\Stepper_Controll.pdb
+C:\Users\DiO\Desktop\Stepper_Controll-master\Stepper_Controll\obj\Debug\Stepper_Control.csprojResolveAssemblyReference.cache
+C:\Users\DiO\Desktop\Stepper_Controll-master\Stepper_Controll\obj\Debug\Stepper_Control.csproj.GenerateResource.Cache
+C:\Users\DiO\Desktop\Stepper_Controll-master\Stepper_Controll\bin\Debug\Stepper_Controll.exe
+C:\Users\DiO\Desktop\Stepper_Controll-master\Stepper_Controll\bin\Debug\Stepper_Controll.pdb
+C:\Users\DiO\Desktop\Stepper_Controll-master\Stepper_Controll\obj\Debug\Stepper_Controll.MainForm.resources
